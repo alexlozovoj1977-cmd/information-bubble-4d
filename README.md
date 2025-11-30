@@ -3,7 +3,7 @@
 This repository accompanies the bilingual concept paper:
 
 > O. Lozovyi, *Evolution of the Information Bubble: From the Womb to Algorithms*,
-> Zenodo, 2025. [doi:10.5281/zenodo.17771945](https://doi.org/10.5281/zenodo.17771945)
+> Zenodo, 2025. https://doi.org/10.5281/zenodo.17771945
 
 The project treats the “information bubble” not as a social media glitch,
 but as the four-dimensional inner world of a human being, formed from
@@ -22,7 +22,7 @@ Create these folders after cloning and place your files accordingly.
 If you use this work, please cite the Zenodo record:
 
 Lozovyi, O. (2025). *Evolution of the Information Bubble: From the Womb to Algorithms*.
-Zenodo. [https://doi.org/10.5281/zenodo.17771700](https://doi.org/10.5281/zenodo.17771945)
+Zenodo. https://doi.org/10.5281/zenodo.17771945
 
 ## Ukrainian summary (Коротко українською)
 
