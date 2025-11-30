@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the Zenodo record."
+title: "Evolution of the Information Bubble: From the Womb to Algorithms"
+doi: "10.5281/zenodo.17771700"
+type: article
+authors:
+  - family-names: "Lozovyi"
+    given-names: "Oleksandr"
+date-released: "2025-11-30"
+version: "v1.0.0"
