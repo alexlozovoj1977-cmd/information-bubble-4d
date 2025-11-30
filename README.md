@@ -3,7 +3,7 @@
 This repository accompanies the bilingual concept paper:
 
 > O. Lozovyi, *Evolution of the Information Bubble: From the Womb to Algorithms*,
-> Zenodo, 2025. doi:10.5281/zenodo.17771700
+> Zenodo, 2025. doi:10.5281/zenodo.17771945
 
 The project treats the “information bubble” not as a social media glitch,
 but as the four-dimensional inner world of a human being, formed from
